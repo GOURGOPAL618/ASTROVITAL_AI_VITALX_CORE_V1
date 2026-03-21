@@ -5,7 +5,7 @@
 > *"Because Every Heartbeat in Space Matters."*
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![Version](https://img.shields.io/badge/Version-V1-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
