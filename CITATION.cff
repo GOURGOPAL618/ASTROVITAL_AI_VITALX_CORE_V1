@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it."
+authors:
+  - family-names: Mohapatra
+    given-names: Gouragopal
+title: "ASTROVITAL AI — VITALX CORE V1"
+version: 1.0.0
+date-released: 2026-03-16
+url: "https://github.com/GOURGOPAL618"

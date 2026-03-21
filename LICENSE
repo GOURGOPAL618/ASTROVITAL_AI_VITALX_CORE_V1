@@ -1,0 +1,403 @@
+
+================================================================================
+        ASTROVITAL AI — VITALX CORE V1
+        MAXIMUM SECURITY PROPRIETARY LICENSE AGREEMENT
+        CLASSIFIED — STRICTLY PRIVATE & CONFIDENTIAL
+        © 2026 Gouragopal Mohapatra — All Rights Reserved
+        Effective Date: MARCH 22, 2026 | Version: SECURE-2.0
+================================================================================
+
+  ██████╗ ██████╗  ██████╗ ████████╗███████╗ ██████╗████████╗███████╗██████╗
+  ██╔══██╗██╔══██╗██╔═══██╗╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██╔════╝██╔══██╗
+  ██████╔╝██████╔╝██║   ██║   ██║   █████╗  ██║        ██║   █████╗  ██║  ██║
+  ██╔═══╝ ██╔══██╗██║   ██║   ██║   ██╔══╝  ██║        ██║   ██╔══╝  ██║  ██║
+  ██║     ██║  ██║╚██████╔╝   ██║   ███████╗╚██████╗   ██║   ███████╗██████╔╝
+  ╚═╝     ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝╚═════╝
+
+        "Because Every Heartbeat in Space Matters."
+        ASTROVITAL AI - VITALX CORE V1
+
+================================================================================
+  ███████████████████████████████████████████████████████████████████████████
+  ██                                                                       ██
+  ██   WARNING  —  CLASSIFIED — MAXIMUM PRIVACY PROTECTION IN EFFECT     ██
+  ██   WARNING  —  THIS DOCUMENT AND ALL ASSOCIATED WORKS ARE PRIVATE    ██
+  ██   WARNING  —  UNAUTHORIZED ACCESS IS A PROSECUTABLE OFFENSE         ██
+  ██                                                                       ██
+  ███████████████████████████████████████████████████████████████████████████
+================================================================================
+
+  BINDING LEGAL NOTICE — MANDATORY READING BEFORE ANY ACCESS
+  ──────────────────────────────────────────────────────────────────────────
+  By accessing, viewing, cloning, forking, downloading, screenshotting,
+  screen-recording, printing, copying to clipboard, referencing, describing,
+  summarizing, paraphrasing, discussing, or interacting in ANY manner with
+  ANY part of this project — including its source code, datasets, models,
+  documentation, branding, methodology, architecture, outputs, or any
+  derivative representation — YOU UNCONDITIONALLY AND IRREVOCABLY AGREE
+  to be fully and legally bound by every term of this Agreement.
+
+  THIS LICENSE IS LEGALLY ENFORCEABLE FROM THE MOMENT OF FIRST ACCESS.
+  IGNORANCE OF THIS LICENSE IS NOT A VALID LEGAL DEFENSE.
+
+  IF YOU DO NOT AGREE — IN ENTIRETY AND WITHOUT RESERVATION:
+  ► CEASE ALL ACCESS IMMEDIATELY
+  ► PERMANENTLY DELETE ALL COPIES, CACHES, AND REPRODUCTIONS
+  ► DO NOT REFERENCE, DISCUSS, OR DESCRIBE THIS PROJECT IN ANY FORM
+
+================================================================================
+  SECTION 1 — SOLE OWNERSHIP & ABSOLUTE IP DECLARATION
+================================================================================
+
+  ASTROVITAL AI — VITALX CORE V1 and ALL associated works are the
+  EXCLUSIVE, SOLE, ABSOLUTE, and INALIENABLE intellectual property of:
+
+        ╔══════════════════════════════════════════════════════╗
+        ║  Gouragopal Mohapatra                               ║
+        ║  Independent Researcher | AI & Space Technology     ║
+        ║  India — 2026                                       ║
+        ║  GitHub: github.com/GOURGOPAL618                    ║
+        ╚══════════════════════════════════════════════════════╝
+
+  Protected assets include, without limitation:
+
+    [01]  All source code — scripts, notebooks, modules, pipelines, configs
+    [02]  Dataset — design, schema, structure, generation logic, raw content
+    [03]  ML architecture — model design, training logic, evaluation framework
+    [04]  Model weights, embeddings, checkpoints, and intermediate outputs
+    [05]  Research methodology, hypotheses, and experimental findings
+    [06]  System prompts, internal parameters, and configuration secrets
+    [07]  Project identity — name, brand, logo, slogan, roadmap
+          (VitalX Core -> NeuralBeat -> OmniSense -> MissionMind)
+    [08]  Slogan: "Because Every Heartbeat in Space Matters."
+    [09]  All documentation, reports, presentations, and written work
+    [10]  Architecture diagrams, wireframes, and technical specifications
+    [11]  Private communications, development notes, and internal logs
+    [12]  Version history, commit messages, and development decisions
+    [13]  Any idea, concept, or innovation described within this project
+    [14]  All derivatives, adaptations, translations, or representations
+          thereof — in any current or future medium or technology
+
+  THIS PROJECT WAS CONCEIVED AND DEVELOPED SOLELY AND INDEPENDENTLY
+  BY GOURAGOPAL MOHAPATRA. No institutional, organizational, collaborative,
+  or externally funded claim exists or can be asserted over any component.
+
+================================================================================
+  SECTION 2 — STRICT PRIVACY PROTECTION FRAMEWORK
+================================================================================
+
+  2.1  CLASSIFIED CONFIDENTIALITY STATUS
+       ─────────────────────────────────
+       This project and all its components carry MAXIMUM CONFIDENTIALITY
+       status. Every piece of technical, creative, and research information
+       within this project is a PRIVATE TRADE SECRET of Gouragopal Mohapatra
+       and is afforded all protections applicable to trade secrets under:
+         ► Indian Trade Secrets Law (common law protections)
+         ► Applicable international trade secret frameworks
+         ► Contract law enforced through this License Agreement
+
+  2.2  ABSOLUTE NON-DISCLOSURE OBLIGATION
+       ──────────────────────────────────
+       Any party who accesses this project — under any permitted use —
+       is IMMEDIATELY AND IRREVOCABLY bound by the following:
+
+         ▸ You MUST NOT disclose any technical details to any third party
+         ▸ You MUST NOT discuss architecture, methodology, or data design
+           in any public or private forum, platform, or communication
+         ▸ You MUST NOT describe, explain, or summarize the project's
+           inner workings in any publication, post, video, or presentation
+         ▸ You MUST NOT share screenshots, recordings, transcripts, or
+           any visual or audio reproduction of any project component
+         ▸ You MUST NOT confirm or deny private implementation details
+           to any party not explicitly authorized by the developer
+         ▸ You MUST treat all accessed information as strictly confidential
+           INDEFINITELY — this obligation does NOT expire
+
+  2.3  ZERO INFERENCE RULE
+       ────────────────────
+       Access does NOT authorize drawing technical inferences, generating
+       reconstructions, producing functional descriptions, or creating
+       any content that approximates, mirrors, or could substitute for
+       the original proprietary methodology — regardless of how the
+       resulting content is labeled or framed.
+
+  2.4  STRICT IDENTITY & PERSONAL PRIVACY
+       ────────────────────────────────────
+       The developer's personal identity, name, professional profile,
+       research direction, and personal information are PRIVATE.
+       The following are STRICTLY PROHIBITED:
+
+         ▸ Unauthorized use of the developer's name in any publication,
+           product, advertisement, or public statement
+         ▸ Impersonation or misrepresentation of association or endorsement
+         ▸ Doxxing, profiling, or aggregating personal information about
+           the developer from any source without express consent
+         ▸ Tagging, referencing, or mentioning the developer on any
+           platform without prior written consent
+         ▸ Contacting the developer through unauthorized channels
+           for purposes not explicitly covered in this License
+
+  2.5  PRIVATE DATA & DATASET SOVEREIGNTY
+       ────────────────────────────────────
+       The dataset referenced by, included within, or generated for
+       this project is CLASSIFIED PRIVATE DATA. The following are
+       STRICTLY PROHIBITED without written authorization:
+
+         ▸ Extracting, downloading, or copying any portion of the dataset
+         ▸ Using dataset content or structure to train or evaluate any
+           AI/ML model or statistical system
+         ▸ Publishing, sharing, or distributing any dataset component
+         ▸ Inferring dataset structure from model behavior or outputs
+         ▸ Reproducing synthetic generation methodology for any purpose
+
+  2.6  PRIVATE COMMUNICATION PROTECTION
+       ────────────────────────────────────
+       Any communication between the developer and any authorized party
+       (email, message, verbal) is PRIVATE and CONFIDENTIAL.
+       Such communications may NOT be:
+         ▸ Shared with any third party
+         ▸ Published or disclosed in any format
+         ▸ Used as evidence of permissions not explicitly granted in writing
+
+  2.7  SCREEN, RECORD & CAPTURE PROHIBITION
+       ─────────────────────────────────────
+       The following forms of unauthorized capture are STRICTLY PROHIBITED:
+
+         ▸ Screenshots or screen recordings of any project content
+         ▸ Photographing screens displaying project content
+         ▸ Audio recording of any discussion of proprietary details
+         ▸ Optical character recognition (OCR) applied to any content
+         ▸ Automated or manual transcription of any component
+
+  2.8  PLATFORM PRIVACY ENFORCEMENT
+       ──────────────────────────────
+       Any platform (GitHub, GitLab, academic repositories, social media,
+       code-sharing sites) that hosts or indexes this project without
+       express authorization is in violation of this License.
+       The developer reserves the right to issue immediate DMCA takedowns
+       and pursue legal remedies against any unauthorized hosting platform.
+
+================================================================================
+  SECTION 3 — STRICTLY LIMITED PERMITTED USE
+================================================================================
+
+  The following and ONLY the following uses are permitted:
+
+    ✔  PERSONAL VIEWING (Highly Restricted)
+       — One-time, non-reproducible, non-collaborative personal review only
+       — No downloading, caching beyond session, screenshotting, or saving
+       — Must not be viewed in the presence of unauthorized third parties
+
+    ✔  ACADEMIC CITATION (Strictly Conditioned)
+       — Reference permitted ONLY with verbatim attribution per Section 7
+       — Does NOT grant any right to reproduce, adapt, or replicate content
+       — Citation MUST include full copyright notice
+       — Pre-approval via written request is strongly recommended
+
+    ✔  AUTHORIZED EVALUATION (Controlled Access)
+       — Space agencies, accredited institutions, and recruiters may
+         access for good-faith evaluation ONLY
+       — Must not be shared internally beyond the evaluating individual
+       — Developer's identity and copyright must remain fully intact
+       — Access must be reported to the developer upon request
+
+  ALL PERMITTED USES ARE:
+    ► Non-transferable — permission is personal and non-assignable
+    ► Non-sublicensable — cannot be passed to or shared with others
+    ► Revocable — the developer may withdraw any permission at any time
+    ► Non-expansive — no implied permissions arise from permitted use
+
+================================================================================
+  SECTION 4 — ABSOLUTE PROHIBITIONS
+================================================================================
+
+  The following are STRICTLY, UNCONDITIONALLY, AND PERMANENTLY PROHIBITED:
+
+    ✘  [P-01]  Reproduction in any form — partial or complete
+    ✘  [P-02]  Redistribution — digital, physical, or any medium
+    ✘  [P-03]  Commercial use, monetization, or indirect financial benefit
+    ✘  [P-04]  Modification, adaptation, translation, or derivative works
+    ✘  [P-05]  Publishing or presenting as own work — academic plagiarism
+    ✘  [P-06]  AI/ML training, fine-tuning, evaluation, or data mining
+    ✘  [P-07]  Integration into any other project, product, or system
+    ✘  [P-08]  Reverse engineering, decompiling, or logic extraction
+    ✘  [P-09]  Web scraping, automated crawling, or systematic extraction
+    ✘  [P-10]  Removing, obscuring, or bypassing any copyright notice
+    ✘  [P-11]  Sublicensing or assigning any claimed rights
+    ✘  [P-12]  Use by AI firms, data brokers, or automated pipelines
+    ✘  [P-13]  Third-party archiving without written authorization
+    ✘  [P-14]  Screenshots, recordings, OCR, or any form of capture
+    ✘  [P-15]  Discussing confidential methodology in any public forum
+    ✘  [P-16]  Using project outputs to benchmark competing systems
+    ✘  [P-17]  Filing patent or IP claims based on or derived from
+               this project's innovations, methods, or discoveries
+    ✘  [P-18]  Accessing private branches, internal notes, or any
+               non-public component of the repository
+    ✘  [P-19]  Generating AI summaries, descriptions, or analyses of
+               proprietary components using any automated tool
+    ✘  [P-20]  Any use not EXPLICITLY AND NARROWLY permitted in Section 3
+
+================================================================================
+  SECTION 5 — ENFORCEMENT, PENALTIES & LEGAL REMEDIES
+================================================================================
+
+  5.1  GOVERNING LAW
+         ► Indian Copyright Act, 1957
+         ► Information Technology Act, 2000 (India)
+         ► Indian Penal Code (where criminal provisions apply)
+         ► Berne Convention for the Protection of Literary & Artistic Works
+         ► TRIPS Agreement (WTO)
+         ► Digital Millennium Copyright Act (DMCA) — for online platforms
+         ► Applicable international intellectual property and privacy laws
+
+  5.2  JURISDICTION
+       Primary jurisdiction: Courts of competent authority in India.
+       The developer additionally reserves the right to pursue enforcement
+       in any jurisdiction where infringement occurs, without limitation.
+
+  5.3  ZERO TOLERANCE ENFORCEMENT POLICY
+       ──────────────────────────────────
+         ► NO grace period — violations are actionable immediately
+         ► NO warning requirement before legal action
+         ► NO cure period — breach cannot be retroactively remedied
+         ► NO informal resolution obligation before litigation
+
+  5.4  REMEDIES FOR INFRINGEMENT
+       ────────────────────────
+         ► Immediate cease-and-desist demands
+         ► Emergency injunctive relief without bond requirement
+         ► Civil litigation for actual damages and lost profits
+         ► Claim for unjust enrichment and disgorgement of profits
+         ► Maximum statutory and enhanced damages under applicable law
+         ► Criminal prosecution under applicable IP and IT statutes
+         ► DMCA takedown notices to all hosting platforms
+         ► Public disclosure of infringement and violating parties
+         ► Full recovery of legal fees, court costs, and investigative costs
+         ► Permanent blacklisting from any future authorized access
+
+  5.5  PRIVACY VIOLATION PENALTIES
+       ────────────────────────────
+       Violations of Section 2 (Privacy) are treated as the MOST SEVERE
+       category of breach and carry maximum enforcement priority.
+       Privacy violations may additionally result in:
+         ► Claims under applicable data protection and privacy laws
+         ► Actions under the IT Act, 2000 for unauthorized data access
+         ► Reputational disclosure of the violating party to relevant
+           academic institutions, employers, and professional bodies
+
+  5.6  AUTOMATIC TERMINATION
+       ──────────────────────
+       Any violation causes IMMEDIATE AND AUTOMATIC TERMINATION of all
+       access rights granted under Section 3, with no notice required.
+
+================================================================================
+  SECTION 6 — DISCLAIMERS & LIMITATIONS
+================================================================================
+
+  6.1  NO WARRANTY
+       Provided "AS IS" for portfolio/demonstration only. No warranties —
+       express, implied, or statutory — regarding fitness, accuracy,
+       completeness, or non-infringement.
+
+  6.2  NO LIABILITY
+       Gouragopal Mohapatra bears no liability for any damages — direct,
+       indirect, incidental, consequential, special, or punitive —
+       arising from any use of this software.
+
+  6.3  NO RELATIONSHIP
+       This License creates no partnership, joint venture, employment,
+       or agency relationship of any kind.
+
+  6.4  FULL RESERVATION OF RIGHTS
+       All rights not explicitly and narrowly granted in Section 3
+       are EXPRESSLY, FULLY, AND PERMANENTLY RESERVED.
+       Absence of explicit prohibition does NOT equal permission.
+       Silence does NOT equal consent.
+       Prior access does NOT equal ongoing authorization.
+
+================================================================================
+  SECTION 7 — MANDATORY CITATION FORMAT
+================================================================================
+
+  Academic or research citation is ONLY valid using this EXACT format:
+
+  ╔═════════════════════════════════════════════════════════════════════════╗
+  ║  Mohapatra, G. (2026). ASTROVITAL AI — VITALX CORE V1:              ║
+  ║  An Independent Astronaut Health Prediction System.                    ║
+  ║  Independent Research Initiative.                                      ║
+  ║  © 2026 Gouragopal Mohapatra. All Rights Reserved.                    ║
+  ║  Available: github.com/GOURGOPAL618                                    ║
+  ╚═════════════════════════════════════════════════════════════════════════╝
+
+  ► Omitting the copyright notice renders the citation non-compliant
+  ► Paraphrased attributions that obscure authorship are prohibited
+  ► Citation does NOT imply endorsement by the developer
+  ► Citation does NOT grant any rights beyond academic reference
+
+================================================================================
+  SECTION 8 — CONTACT & PERMISSION REQUESTS
+================================================================================
+
+        Developer  : Gouragopal Mohapatra
+        GitHub     : github.com/GOURGOPAL618
+        Identity   : Independent Researcher | AI & Space Technology
+        Location   : India — 2026
+        Email      : g.mohapatra.info.753@gmail.com
+
+  PERMISSION REQUEST POLICY:
+  ► ALL requests must be submitted in writing with full identification
+  ► Verbal, implied, or assumed permissions carry NO legal weight
+  ► Permission is ONLY valid upon explicit written confirmation
+    personally signed by Gouragopal Mohapatra
+  ► Any granted permission is specific, limited, revocable, and
+    non-transferable — it applies ONLY to the named recipient
+    for the SPECIFIC purpose stated in the written authorization
+
+================================================================================
+  SECTION 9 — GENERAL PROVISIONS
+================================================================================
+
+  9.1  SEVERABILITY
+       If any provision is found unenforceable, it shall be narrowly
+       modified to minimum necessary extent. All remaining provisions
+       remain in full force and effect without exception.
+
+  9.2  ENTIRE AGREEMENT
+       This License is the COMPLETE and EXCLUSIVE agreement governing
+       this project. It supersedes ALL prior communications, representations,
+       or understandings — oral or written.
+
+  9.3  AMENDMENTS
+       This License may be updated solely by Gouragopal Mohapatra at any
+       time. Continued access constitutes binding acceptance of updates.
+
+  9.4  NO WAIVER
+       Failure to enforce any provision at any time does NOT waive that
+       provision or the right to enforce it at any future time.
+
+  9.5  SURVIVAL
+       Sections 1, 2, 4, 5, and 7 survive termination of this Agreement
+       and remain in FULL, PERMANENT effect INDEFINITELY.
+
+  9.6  INTERPRETATION
+       Any ambiguity shall be resolved in favor of the MAXIMUM PROTECTION
+       of Gouragopal Mohapatra's intellectual property and privacy rights.
+
+================================================================================
+
+  ██████████████████████████████████████████████████████████████████████████
+  ██                                                                      ██
+  ██    © 2026  GOURAGOPAL MOHAPATRA  —  ALL RIGHTS RESERVED            ██
+  ██    ══════════════════════════════════════════════════════           ██
+  ██    ASTROVITAL AI — VITALX CORE V1                                ██
+  ██    "Because Every Heartbeat in Space Matters."                     ██
+  ██    ══════════════════════════════════════════════════════           ██
+  ██    CLASSIFIED  |  PRIVATE  |  CONFIDENTIAL  |  PROTECTED           ██
+  ██    ══════════════════════════════════════════════════════           ██
+  ██    UNAUTHORIZED USE, DISCLOSURE, OR REPRODUCTION IS A             ██
+  ██    VIOLATION OF INTELLECTUAL PROPERTY AND PRIVACY LAW             ██
+  ██    AND WILL BE PROSECUTED TO THE FULLEST EXTENT OF LAW.           ██
+  ██                                                                      ██
+  ██████████████████████████████████████████████████████████████████████████
+
+================================================================================

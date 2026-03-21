@@ -1,0 +1,43 @@
+# ============================================
+# ASTROVITAL AI — VITALX CORE V1 
+# .gitignore
+# © 2026 Gouragopal Mohapatra
+# ============================================
+
+# Virtual Environment
+vitalx_core_env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.out
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.temp
+*.swp
