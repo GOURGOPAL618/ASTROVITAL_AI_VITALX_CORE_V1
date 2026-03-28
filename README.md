@@ -17,23 +17,13 @@
 
 <br/>
 
-> ### 🛰️ *Edge-deployed Clinical Decision Support System*
-> ### *for astronaut health in deep space — no Earth, no delay, no compromise.*
+**🛰️ Edge-deployed Clinical Decision Support System**
+**for astronaut health in deep space — no Earth, no delay, no compromise.**
 
 <br/>
 
-</div>
-
----
-
-<div align="center">
-```
-╔══════════════════════════════════════════════════════════╗
-║          CDSS PROPOSED IN 2014.                          ║
-║          NO WORKING IMPLEMENTATION EXISTED.              ║
-║          UNTIL NOW.           — VitalX Core V1           ║
-╚══════════════════════════════════════════════════════════╝
-```
+> 💀 CDSS was proposed in 2014.
+> No working implementation existed — **until VITALX CORE V1.**
 
 </div>
 
@@ -41,112 +31,92 @@
 
 ## 👨‍🚀 Developer
 
-<table>
-<tr><td><b>Name</b></td><td>Gouragopal Mohapatra</td></tr>
-<tr><td><b>Role</b></td><td>Independent Researcher</td></tr>
-<tr><td><b>GitHub</b></td><td><a href="https://github.com/GOURGOPAL618">@GOURGOPAL618</a></td></tr>
-<tr><td><b>Date</b></td><td>March 2026</td></tr>
-<tr><td><b>Location</b></td><td>🇮🇳 India</td></tr>
-</table>
+| Field | Details |
+|---|---|
+| **Name** | Gouragopal Mohapatra |
+| **Role** | Independent Researcher |
+| **GitHub** | [@GOURGOPAL618](https://github.com/GOURGOPAL618) |
+| **Date** | March 2026 |
+| **Location** | 🇮🇳 India |
 
 ---
 
-## 🌌 What is AstroVital AI?
+## 🌌 What is ASTROVITAL AI?
 
 **AstroVital AI** is an **edge-deployed Clinical Decision Support System (CDSS)** engineered for astronaut health monitoring during deep space missions — functioning with **zero Earth connectivity**.
 
-<div align="center">
-
-| 📄 12 Peer-Reviewed Papers | 💡 6 Innovations Identified | ✅ 3 Built in V1 |
+| 📄 12 Papers | 💡 6 Innovations | ✅ 3 Built in V1 |
 |:---:|:---:|:---:|
-| Spaceflight research foundation | From critical literature gaps | Operational in VitalX Core |
+| Peer-reviewed spaceflight research | Identified from literature gaps | Operational in VitalX Core |
 
-</div>
-
-> 🎯 **Target Journals:** Acta Astronautica · npj Microgravity
+🎯 **Target Journals:** Acta Astronautica · npj Microgravity
 
 ---
 
 ## ⚠️ The Problem Space
 
-<div align="center">
-
 | Risk | Hard Data |
 |:---|:---|
-| 🫀 **Cardiovascular deconditioning** | Begins within **days** of microgravity exposure |
-| 🦴 **Bone density loss** | **1–2% per month** — irreversible without intervention |
+| 🫀 **Cardiovascular deconditioning** | Begins within **days** of microgravity |
+| 🦴 **Bone density loss** | **1–2% per month** — irreversible |
 | 💪 **Muscle atrophy** | Up to **16% loss** in short missions |
 | 😴 **Sleep deprivation** | Average **5.4 hrs/night** in-flight |
 | ☢️ **Radiation exposure** | **50–100 mSv** per 6-month mission |
 | 🛡️ **Immune dysregulation** | Viral reactivation documented across crews |
-| 📡 **Mars communication delay** | **24 minutes one-way** — Earth cannot intervene |
-
-</div>
+| 📡 **Mars delay** | **24 min one-way** — Earth cannot intervene |
 
 <br/>
 
 <div align="center">
-```
-┌─────────────────────────┐          ┌─────────────────────────┐
-│   CURRENT MEDICINE      │   ────►  │    AstroVital AI        │
-│                         │          │                         │
-│   ❌  REACTIVE          │          │   ✅  PREDICTIVE        │
-│   Responds after crisis │          │   Acts before crisis    │
-│   Depends on Earth      │          │   Fully autonomous      │
-│   24min delay = danger  │          │   Zero-latency edge AI  │
-└─────────────────────────┘          └─────────────────────────┘
-```
+
+| ❌ Current Medicine | ✅ AstroVital AI |
+|:---:|:---:|
+| **REACTIVE** | **PREDICTIVE** |
+| Responds after crisis | Acts before crisis |
+| Depends on Earth | Fully autonomous |
+| 24 min delay = danger | Zero-latency edge AI |
 
 </div>
 
 ---
 
-## 🔬 VitalX Core V1 — 3 Core Innovations
+## 🔬 VITALX CORE V1 — 3 Core Innovations
 
-<div align="center">
-
-| # | Innovation | Algorithm | Purpose | Status |
+| Code | Innovation | Algorithm | Purpose | Status |
 |:---:|:---|:---|:---|:---:|
-| **`INN-3`** | Noisy Sensor Correction | RF + Multivariate Regression | Clean corrupted sensor data | 🟡 In Progress |
-| **`INN-6`** | Biomarker Discovery | RF Feature Importance | Identify critical health signals | ⏳ Upcoming |
-| **`INN-1`** | Edge CDSS Engine | Decision Tree | Clinical triage at the edge | ⏳ Upcoming |
-
-</div>
+| `INN-3` | Noisy Sensor Correction | RF + Multivariate Regression | Clean corrupted sensor data | 🟡 In Progress |
+| `INN-6` | Biomarker Discovery | RF Feature Importance | Identify critical health signals | ⏳ Upcoming |
+| `INN-1` | Edge CDSS Engine | Decision Tree | Clinical triage at the edge | ⏳ Upcoming |
 
 ---
 
 ## ⚙️ The Pipeline
-
-<div align="center">
 ```
-                    ┌──────────────────────────┐
-                    │   Raw Noisy Sensor Data  │
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │   INNOVATION 3           │  RF + Multivariate Regression
-                    │   Sensor Drift Correct.  │  ──── Cleans the signal
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │   INNOVATION 6           │  RF Feature Importance
-                    │   Biomarker Discovery    │  ──── Finds what matters
-                    └────────────┬─────────────┘
-                                 │
-                    ┌────────────▼─────────────┐
-                    │   INNOVATION 1           │  Decision Tree
-                    │   Edge CDSS Engine       │  ──── Makes the call
-                    └────────────┬─────────────┘
-                                 │
-              ┌──────────────────┼──────────────────┐
-              │                  │                  │
-        ┌─────▼─────┐     ┌──────▼──────┐    ┌─────▼──────┐
-        │  🟢 GREEN │     │ 🟡 YELLOW   │    │  🔴 RED    │
-        │  Nominal  │     │  Caution    │    │  Critical  │
-        └───────────┘     └─────────────┘    └────────────┘
+RAW NOISY SENSOR DATA
+         │
+         ▼
+ ┌───────────────────┐
+ │   INNOVATION 3    │  →  RF + Multivariate Regression
+ │  Sensor Correct.  │     Cleans the corrupted signal
+ └────────┬──────────┘
+          │
+          ▼
+ ┌───────────────────┐
+ │   INNOVATION 6    │  →  RF Feature Importance
+ │    Biomarkers     │     Finds what truly matters
+ └────────┬──────────┘
+          │
+          ▼
+ ┌───────────────────┐
+ │   INNOVATION 1    │  →  Decision Tree
+ │   Edge CDSS       │     Makes the clinical call
+ └────────┬──────────┘
+          │
+    ┌─────┼─────┐
+    ▼     ▼     ▼
+  🟢    🟡    🔴
+ GREEN YELLOW  RED
 ```
-
-</div>
 
 ---
 
@@ -198,61 +168,51 @@ ASTROVITAL_AI_VITALX_CORE_V1/
 
 ## 📊 Dataset
 
-<div align="center">
-
-| 🗂️ Records | 📡 Parameters | 🏷️ Alert Classes | 📚 Source Papers | 🛸 Mission Types |
+| 🗂️ Records | 📡 Parameters | 🏷️ Alert Labels | 📚 Papers | 🛸 Mission Types |
 |:---:|:---:|:---:|:---:|:---:|
 | **1,000** | **18** | **3** | **12** | **3** |
-| Astronaut mission records | Physiological features | GREEN · YELLOW · RED | Peer-reviewed spaceflight | LEO · Deep Space · Mars |
-
-</div>
+| Mission records | Physio features | 🟢 🟡 🔴 | Peer-reviewed | LEO · Deep Space · Mars |
 
 ---
 
 ## 📈 Mission Progress
-```
-Overall  ████████░░░░░░░░░░░░░░░░  33%  (4 of 12 Notebooks Complete)
-```
 
-<br/>
+**`████████░░░░░░░░░░░░░░░░` 33% — 4 of 12 Notebooks Complete**
 
-**✅ Completed**
+### ✅ Completed
 
-| Notebook | Title | Status |
+| # | Notebook | Status |
 |:---:|:---|:---:|
-| `01` | Data Exploration & Design | ✅ Done |
-| `02` | Dataset Generation & Preprocessing | ✅ Done |
-| `03` | Feature Engineering | ✅ Done |
-| `04` | Innovation 3 Part 1 — Sensor Drift Correction | ✅ Done |
+| 01 | Data Exploration & Design | ✅ Done |
+| 02 | Dataset Generation & Preprocessing | ✅ Done |
+| 03 | Feature Engineering | ✅ Done |
+| 04 | Innovation 3 Part 1 — Sensor Drift Correction | ✅ Done |
 
-<br/>
+### 🔄 In Progress
 
-**🔄 In Progress**
-
-| Notebook | Title | Status |
+| # | Notebook | Status |
 |:---:|:---|:---:|
-| `05` | Innovation 3 Part 2 — Signal Separation | 🔄 Active |
+| 05 | Innovation 3 Part 2 — Signal Separation | 🔄 Active |
 
-<br/>
+### ⏳ Upcoming
 
-**⏳ Upcoming**
-
-| Notebooks | Title | Status |
+| # | Notebook | Status |
 |:---:|:---|:---:|
-| `06–07` | Innovation 6 — Biomarker Discovery | ⏳ Queued |
-| `08–09` | Innovation 1 — Edge CDSS Engine | ⏳ Queued |
-| `10` | Full Pipeline Integration | ⏳ Queued |
-| `11–12` | Results, Visualization & Mission Report | ⏳ Queued |
+| 06–07 | Innovation 6 — Biomarker Discovery | ⏳ Queued |
+| 08–09 | Innovation 1 — Edge CDSS Engine | ⏳ Queued |
+| 10 | Full Pipeline Integration | ⏳ Queued |
+| 11–12 | Results, Visualization & Mission Report | ⏳ Queued |
 
 ---
 
 ## 🗺️ Multi-Version Roadmap
-```
-v1.0  VitalX Core   ████████░░░░░░░░░░░░  ACTIVE      CDSS — Innovations 1, 3, 6
-v2.0  NeuralBeat    ░░░░░░░░░░░░░░░░░░░░  PLANNED     Deep Learning + Digital Twins
-v3.0  OmniSense     ░░░░░░░░░░░░░░░░░░░░  PLANNED     Multi-Modal Sensor Fusion
-v4.0  MissionMind   ░░░░░░░░░░░░░░░░░░░░  PLANNED     Real-Time Edge Deployment
-```
+
+| Version | Codename | Focus | Progress | Status |
+|:---:|:---:|:---|:---:|:---:|
+| **v1.0** | VitalX Core | CDSS — Innovations 1, 3, 6 | `████░░░░░░` | 🟢 ACTIVE |
+| **v2.0** | NeuralBeat | Deep Learning + Digital Twins | `░░░░░░░░░░` | ⏳ Planned |
+| **v3.0** | OmniSense | Multi-Modal Sensor Fusion | `░░░░░░░░░░` | ⏳ Planned |
+| **v4.0** | MissionMind | Real-Time Edge Deployment | `░░░░░░░░░░` | ⏳ Planned |
 
 ---
 
@@ -270,13 +230,13 @@ Every notebook. Every model. Every commit — a calculated step toward making de
 
 <br/>
 
-*✦ &nbsp; For every astronaut who left Earth and never came home. &nbsp; ✦*
+✦ *For every astronaut who left Earth and never came home.* ✦
 
-*✦ &nbsp; For every astronaut who returned carrying space within them. &nbsp; ✦*
+✦ *For every astronaut who returned carrying space within them.* ✦
 
 <br/>
 
-### **AstroVital AI exists because of you.**
+### **ASTROVITAL AI exists because of you.**
 
 <br/>
 
@@ -291,6 +251,10 @@ Every notebook. Every model. Every commit — a calculated step toward making de
 Independent Research · No institutional affiliation
 
 *Unauthorized use strictly prohibited under the Indian Copyright Act, 1957*
+
+<br/>
+
+*"The stars don't wait. Neither do we."*
 
 <br/>
 
