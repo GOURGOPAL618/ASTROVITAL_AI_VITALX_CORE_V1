@@ -3,7 +3,9 @@
 </p>
 
 <div align="center">
+
 # ☄️ ASTROVITAL AI — VITALX CORE V1
+
 ### *"Because Every Heartbeat in Space Matters."*
 
 ![Status](https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket)
