@@ -9,7 +9,7 @@
 <br/>
 
 [![Status](https://img.shields.io/badge/⚡_STATUS-ACTIVE-00ff88?style=for-the-badge&labelColor=0a0e1a)](.)
-[![Version](https://img.shields.io/badge/🚀_VERSION-v1.0-00d4ff?style=for-the-badge&labelColor=0a0e1a)](.)
+[![Version](https://img.shields.io/badge/🚀_VERSION-V1-00d4ff?style=for-the-badge&labelColor=0a0e1a)](.)
 [![Python](https://img.shields.io/badge/🐍_PYTHON-3.14-FFD43B?style=for-the-badge&labelColor=0a0e1a)](.)
 [![Notebooks](https://img.shields.io/badge/📓_NOTEBOOKS-4%2F12-ff8800?style=for-the-badge&labelColor=0a0e1a)](.)
 [![Mission](https://img.shields.io/badge/🛸_MISSION-DEEP_SPACE-aa44ff?style=for-the-badge&labelColor=0a0e1a)](.)
