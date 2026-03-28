@@ -1,9 +1,9 @@
 <p align="center">
   <img src="astro_logo.jpeg" width="400"/>
 </p>
-# ASTROVITAL AI — VITALX CORE V1
-<div align="center">
 
+<div align="center">
+# ☄️ ASTROVITAL AI — VITALX CORE V1
 ### *"Because Every Heartbeat in Space Matters."*
 
 ![Status](https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket)
