@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d1b4b,100:00d4ff&height=200&section=header&text=AstroVital%20AI&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=VitalX%20Core%20v1.0%20%E2%80%94%20Because%20Every%20Heartbeat%20in%20Space%20Matters&descAlignY=60&descColor=7ab8ff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d1b4b,100:00d4ff&height=200&section=header&text=ASTROVITAL%20AI&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=VITALX%20CORE%20V1%20%E2%80%94%20Because%20Every%20Heartbeat%20in%20Space%20Matters&descAlignY=60&descColor=7ab8ff&animation=twinkling"/>
 
 <br/>
 
