@@ -1,12 +1,14 @@
 # Changelog
 
 ## [v1.0.0] — March 2026
+## [Week 2] — March 23-28, 2026
 ### Added
-- Notebook 01 — Data Exploration & Design
-- Notebook 02 — Dataset Generation & Preprocessing
-- Notebook 03 — Feature Engineering
-- Dataset: 1000 records · 18 features
-- Labels: GREEN / YELLOW / RED
+- Notebook 04 — Innovation 3 Part 1 — Sensor Drift Correction
+- Multivariate Regression model — sensor noise correction
+- Corrected dataset — astrovital_corrected_v1.csv
+- Model saved — innovation3_sensor_model.pkl
+- Average R2: 0.823
+- Average Improvement: 9.23%
 ```
 
 ---
