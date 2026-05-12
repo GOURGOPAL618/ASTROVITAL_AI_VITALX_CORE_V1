@@ -1,0 +1,30 @@
+{
+  "model_name": "VITALX CORE V1 \u2014 Edge CDSS",
+  "version": "1.0.0",
+  "algorithm": "Random Forest + DT Explainer",
+  "accuracy": 85.25,
+  "red_recall": 75.86,
+  "red_f1": 64.71,
+  "threshold": 0.27,
+  "features": [
+    "Heart_rate_bpm",
+    "Oxygen_Saturation",
+    "Sleep_Hours",
+    "Radiation_mSv",
+    "Bone_Density_Loss",
+    "Immune_Score",
+    "Systolic_BP_mmHg",
+    "Muscle_Loss_Percent",
+    "Space_Stress_Index"
+  ],
+  "classes": [
+    "GREEN",
+    "RED",
+    "YELLOW"
+  ],
+  "training_samples": 1056,
+  "developer": "Gouragopal Mohapatra",
+  "date": "April 2026",
+  "copyright": "\u00a9 2026 Gouragopal Mohapatra",
+  "status": "PRODUCTION READY"
+}

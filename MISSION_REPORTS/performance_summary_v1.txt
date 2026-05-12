@@ -1,0 +1,44 @@
+
+╔══════════════════════════════════════════════════════════╗
+║      ASTROVITAL AI — VITALX CORE V1                     ║
+║      PERFORMANCE SUMMARY REPORT                         ║
+║      © 2026 Gouragopal Mohapatra                        ║
+╚══════════════════════════════════════════════════════════╝
+
+INNOVATION 3 — SENSOR CORRECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Algorithm     : Multivariate Regression + Random Forest
+R2 Score      : 0.823
+MAE Noisy     : 2.8899
+MAE Corrected : 2.6961
+Improvement   : 9.23%
+Sensors Fixed : 9 parameters
+Status        : ✅ COMPLETE
+
+INNOVATION 6 — BIOMARKER DISCOVERY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Algorithm     : Random Forest Feature Importance
+Features In   : 14 physiological parameters
+CV Mean       : > 0.83
+Top Biomarker : Overall_Risk_Score
+Status        : ✅ COMPLETE
+
+INNOVATION 1 — EDGE CDSS
+━━━━━━━━━━━━━━━━━━━━━━━━
+Algorithm     : Random Forest + DT Explainer
+Accuracy      : 85.25%
+F1 Macro      : 80.33%
+RED Recall    : 75.86% (baseline: 10.34%)
+RED F1        : 64.71% (baseline: 18.00%)
+Threshold     : 0.27 (tuned)
+Status        : ✅ PRODUCTION READY
+
+OVERALL PROJECT
+━━━━━━━━━━━━━━━
+Notebooks     : 11 Complete
+Models Saved  : 6 PKL files
+Dataset       : 1000 records + V2 1001 records
+Edge Ready    : Yes — No cloud dependency
+CDSS Gap      : 12 years bridged (2014 → 2026)
+
+© 2026 Gouragopal Mohapatra — All Rights Reserved

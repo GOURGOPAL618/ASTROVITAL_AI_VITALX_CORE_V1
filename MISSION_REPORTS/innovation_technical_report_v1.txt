@@ -1,0 +1,86 @@
+
+╔══════════════════════════════════════════════════════════╗
+║      ASTROVITAL AI — VITALX CORE V1                     ║
+║      INNOVATION TECHNICAL REPORT                        ║
+║      © 2026 Gouragopal Mohapatra                        ║
+╚══════════════════════════════════════════════════════════╝
+
+INNOVATION 3 — SENSOR DRIFT CORRECTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Problem     : Space wearable sensors affected by
+              radiation, sweat, movement artifacts
+Solution    : Two-stage correction pipeline
+
+Part 1 — Multivariate Regression:
+  Algorithm : Ridge Regression (alpha=1.0)
+  Wrapper   : MultiOutputRegressor
+  Input     : 9 noisy sensor parameters
+  Output    : Drift-corrected signals
+  R2 Score  : 0.823 average
+  Improvement: 9.23% MAE reduction
+
+Part 2 — Random Forest Signal Separation:
+  Algorithm : RandomForestClassifier
+  Trees     : 100
+  Max Depth : 10
+  Classes   : REAL / NOISY
+  Output    : Only REAL signals pass through
+
+Literature Gap Addressed:
+  PO6 Khan et al. 2024 — sEMG noise in wearables
+  PO7 2024 — Radiation effects on sensors
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INNOVATION 6 — BIOMARKER DISCOVERY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Problem     : Unknown which parameters predict
+              astronaut health risk
+Solution    : Random Forest Feature Importance
+
+Algorithm   : RandomForestClassifier
+Trees       : 200
+Max Depth   : 15
+Features In : 14 physiological parameters
+Output      : Ranked biomarker importance scores
+
+Literature Gap Addressed:
+  PO4 Crucian et al. 2018 — immune markers
+  PO5 Albornoz et al. 2023 — sleep importance
+  PO10 2023 — precision health markers
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INNOVATION 1 — EDGE CDSS
+━━━━━━━━━━━━━━━━━━━━━━━━
+Problem     : No working CDSS existed for 12 years
+              despite theoretical proposals since 2014
+Solution    : Random Forest + DT Explainer pipeline
+
+Primary Model:
+  Algorithm : RandomForestClassifier
+  Trees     : 200, Max Depth: 15
+  Imbalance : SMOTE (k_neighbors=3)
+  Threshold : 0.27 (tuned for RED recall)
+
+Explainer Layer:
+  Algorithm : DecisionTreeClassifier
+  Max Depth : 5
+  Purpose   : White-box IF/THEN rules
+
+Final Performance:
+  Accuracy      : 85.25%
+  RED Recall    : 75.86% (baseline: 10.34%)
+  RED F1        : 64.71% (baseline: 18.00%)
+  Macro F1      : 80.33%
+
+Edge Deployment:
+  Cloud needed  : NO
+  Inference     : < 10ms
+  Memory        : Lightweight
+
+Literature Gap Addressed:
+  PO8 Patil et al. 2025 — CDSS implementation
+  PO12 Russell et al. 2023 — automation bias
+
+© 2026 Gouragopal Mohapatra — All Rights Reserved

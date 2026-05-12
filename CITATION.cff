@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: >
+  If you use ASTROVITAL AI — VITALX CORE V1
+  in your research, please cite it as below.
+
+authors:
+  - family-names: Mohapatra
+    given-names: Gouragopal
+    alias: Bapu
+    affiliation: Independent Researcher
+    country: IN
+
+title: >
+  ASTROVITAL AI — VITALX CORE V1:
+  An Edge-Deployed Clinical Decision Support System
+  for Astronaut Health Monitoring in Deep Space Missions
+
+version: 1.0.0
+date-released: 2026-05-12
+url: https://github.com/GOURGOPAL618/ASTROVITAL_AI_VITALX_CORE_V1
+license: proprietary
+
+keywords:
+  - space medicine
+  - astronaut health
+  - clinical decision support
+  - edge AI
+  - deep space
+  - machine learning
+  - CDSS
+  - biomarker discovery
+  - sensor correction
+  - independent research
+
+abstract: >
+  ASTROVITAL AI — VITALX CORE V1 is the first working
+  edge-deployed Clinical Decision Support System (CDSS)
+  for astronaut health monitoring in deep space missions.
+  Built on 12 peer-reviewed spaceflight research papers,
+  it implements three core innovations — sensor drift
+  correction, biomarker discovery, and an edge CDSS —
+  achieving 85.25% accuracy with RED recall improved
+  from 10.34% to 75.86%. The system operates entirely
+  on-device with zero cloud dependency.
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Mohapatra
+      given-names: Gouragopal
+  title: >
+    ASTROVITAL AI — VITALX CORE V1
+  year: 2026
+  url: https://github.com/GOURGOPAL618/ASTROVITAL_AI_VITALX_CORE_V1

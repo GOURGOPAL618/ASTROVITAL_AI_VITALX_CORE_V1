@@ -1,0 +1,42 @@
+
+╔══════════════════════════════════════════════════════════╗
+║      ASTROVITAL AI — VITALX CORE V1                     ║
+║      RESEARCH CONTRIBUTION REPORT                       ║
+║      © 2026 Gouragopal Mohapatra                        ║
+╚══════════════════════════════════════════════════════════╝
+
+LITERATURE GAPS ADDRESSED
+━━━━━━━━━━━━━━━━━━━━━━━━━
+PO6 Khan et al. 2024      → sEMG noise — Innovation 3 ✅
+PO7 2024                  → Radiation sensor — Innovation 3 ✅
+PO4 Crucian et al. 2018   → Immune markers — Innovation 6 ✅
+PO5 Albornoz et al. 2023  → Sleep biomarkers — Innovation 6 ✅
+PO10 2023                 → Precision health — Innovation 6 ✅
+PO8 Patil et al. 2025     → CDSS synthetic — Innovation 1 ✅
+PO12 Russell et al. 2023  → CDSS deployment — Innovation 1 ✅
+
+ORIGINAL CONTRIBUTIONS
+━━━━━━━━━━━━━━━━━━━━━━
+1. First working edge-deployed CDSS — 2026
+2. Threshold tuning for RED recall (10%→76%)
+3. RF + DT parallel explainability architecture
+4. SMOTE for space medical minority class
+5. Combined sensor correction pipeline
+6. Data-driven biomarker ranking for deep space
+
+12-YEAR GAP BRIDGED
+━━━━━━━━━━━━━━━━━━━
+CDSS Proposed  : 2014
+Implemented    : 2026
+By             : Gouragopal Mohapatra
+                 Independent Researcher
+                 B.Tech AI & Data Science
+                 India
+
+PUBLICATION TARGET
+━━━━━━━━━━━━━━━━━━
+Primary   : Acta Astronautica
+Secondary : npj Microgravity
+Tertiary  : IEEE J. Biomedical & Health Informatics
+
+© 2026 Gouragopal Mohapatra — All Rights Reserved

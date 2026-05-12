@@ -1,0 +1,64 @@
+
+╔══════════════════════════════════════════════════════════╗
+║      ASTROVITAL AI — VITALX CORE V1                     ║
+║      DATASET DOCUMENTATION REPORT                       ║
+║      © 2026 Gouragopal Mohapatra                        ║
+╚══════════════════════════════════════════════════════════╝
+
+DATASET OVERVIEW
+━━━━━━━━━━━━━━━━
+All datasets validated from 12 peer-reviewed
+spaceflight research papers.
+No real astronaut data used — synthetic generation
+based on validated physiological ranges.
+
+DATASET FILES
+━━━━━━━━━━━━━
+1. astrovital_dataset_v1.csv
+   Location : DATA_VAULT/SENSOR_INTAKE
+   Records  : 1000
+   Columns  : 13 raw physiological parameters
+   Purpose  : Original raw synthetic dataset
+
+2. astrovital_labeled_v2.csv
+   Location : DATA_VAULT/SENSOR_INTAKE
+   Records  : 1001
+   Columns  : 13 parameters + Health_Status
+   Labels   : GREEN=479, YELLOW=403, RED=118
+   Purpose  : Improved labeled dataset
+
+3. astrovital_clean_v1.csv
+   Location : DATA_VAULT/MISSION_READY_DATA
+   Records  : 1000
+   Purpose  : After preprocessing + labeling
+
+4. astrovital_corrected_v1.csv
+   Location : DATA_VAULT/MISSION_READY_DATA
+   Purpose  : After Innovation 3 correction
+
+5. astrovital_features_v1.csv
+   Location : DATA_VAULT/MISSION_READY_DATA
+   Purpose  : After feature engineering (18 features)
+
+6. astrovital_signal_clean_v1.csv
+   Location : DATA_VAULT/MISSION_READY_DATA
+   Records  : 975
+   Purpose  : After signal separation (REAL only)
+
+7. astrovital_biomarkers_v1.csv
+   Location : DATA_VAULT/MISSION_READY_DATA
+   Purpose  : Top biomarkers selected by Innovation 6
+
+PHYSIOLOGICAL PARAMETERS
+━━━━━━━━━━━━━━━━━━━━━━━━
+Heart Rate       : 55–215 bpm (Vernice et al. 2020)
+Systolic BP      : 70–140 mmHg (Vernice et al. 2020)
+Diastolic BP     : 40–90 mmHg
+Sleep Hours      : 2.0–6.5 hrs (Albornoz et al. 2023)
+Oxygen Sat       : 88–100% (Russell et al. 2023)
+Muscle Loss      : 0–16% (Lee et al. 2020)
+Bone Density Loss: 0.04–2.0%/month (Khan et al. 2024)
+Radiation        : 0–100 mSv (Khan et al. 2024)
+Immune Score     : 20–100 (Crucian et al. 2018)
+
+© 2026 Gouragopal Mohapatra — All Rights Reserved
