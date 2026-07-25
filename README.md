@@ -138,7 +138,7 @@ Digital       CDSS for         │             │          VITALX
 Twin          Space            │             │          CORE V1
 Proposed      Proposed         │             │          BUILT
 (Literature)  (Literature)     │             │          ✅
-              │                │             │           |
+              │                │             │            |
               └─────────────── ┴──────────────────────────┘
                     12 YEARS — PAPERS ONLY
                     NO WORKING SYSTEM ANYWHERE
