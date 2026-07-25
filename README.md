@@ -134,12 +134,12 @@ Current onboard health monitoring systems are **reactive**. They record. They al
   2010          2014          2018          2022          2026
    │             │             │             │             │
    ▼             ▼             │             │             ▼
-Digital       CDSS for        │             │          VITALX
-Twin          Space           │             │          CORE V1
-Proposed      Proposed        │             │          BUILT
-(Literature)  (Literature)    │             │          ✅
-              │               │             │
-              └───────────────┴─────────────┘
+Digital       CDSS for         │             │          VITALX
+Twin          Space            │             │          CORE V1
+Proposed      Proposed         │             │          BUILT
+(Literature)  (Literature)     │             │          ✅
+              │                │             │           |
+              └─────────────── ┴──────────────────────────┘
                     12 YEARS — PAPERS ONLY
                     NO WORKING SYSTEM ANYWHERE
 ```
