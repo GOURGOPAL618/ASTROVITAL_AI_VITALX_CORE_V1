@@ -438,15 +438,15 @@ ASTROVITAL_AI_VITALX_CORE_V1/
 <div align="center">
 
 ```
-╔══════╦══════════════════╦══════════════════════════════════╦════════════╗
-║  Ver ║  Codename        ║  Core Capability                 ║  Status    ║
-╠══════╬══════════════════╬══════════════════════════════════╬════════════╣
-║ V1 ║ VITALX CORE      ║ Edge CDSS · 3 Innovations        ║ ✅ COMPLETE ║
-║ V1.5 ║ AEREXIS OMEGA    ║ ICDSS-H + ICDSS-M · Dual Domain  ║ 🔵 ACTIVE  ║
-║ V2.0 ║ OMNI-SENTINEL    ║ Digital Twins · LSTM + Attention ║ ⏳ PLANNED  ║
-║ V3.0 ║ NEURALBEAT       ║ Multi-Modal Sensor Fusion        ║ ⏳ PLANNED  ║
-║ V4.0 ║ MISSION MIND     ║ Real Edge Hardware Deployment    ║ ⏳ PLANNED  ║
-╚══════╩══════════════════╩══════════════════════════════════╩════════════╝
+╔══════╦══════════════════╦══════════════════════════════════╦════════════════╗
+║  Ver ║  Codename        ║  Core Capability                 ║  Status        ║
+╠══════╬══════════════════╬══════════════════════════════════╬════════════════╣
+║ V1   ║ VITALX CORE      ║ Edge CDSS · 3 Innovations        ║ ✅ COMPLETE    ║
+║ V1.5 ║ AEREXIS OMEGA    ║ ICDSS-H + ICDSS-M · Dual Domain  ║ ✅ In Progress ║
+║ V2.0 ║ OMNI-SENTINEL    ║ Digital Twins · LSTM + Attention ║ ⏳ PLANNED     ║
+║ V3.0 ║ NEURALBEAT       ║ Multi-Modal Sensor Fusion        ║ ⏳ PLANNED     ║
+║ V4.0 ║ MISSION MIND     ║ Real Edge Hardware Deployment    ║ ⏳ PLANNED     ║
+╚══════╩══════════════════╩══════════════════════════════════╩════════════════╝
 ```
 
 </div>
