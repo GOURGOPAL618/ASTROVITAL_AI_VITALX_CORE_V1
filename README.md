@@ -163,44 +163,44 @@ Not the first proposed. Not the first theorized. The first **built**, **trained*
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║              VITALX CORE V1 — PIPELINE ARCHITECTURE              ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   [ RAW SENSOR INPUT ]                                           ║
-║   9 physiological parameters · radiation-corrupted · noisy       ║
-║          │                                                       ║
-║          ▼                                                       ║
-║   ┌─────────────────────────────────────────────┐               ║
-║   │  INNOVATION 3 — SENSOR DRIFT CORRECTION     │               ║
-║   │  Multivariate Regression + Random Forest    │               ║
-║   │  R² = 0.823 · MAE improvement = 9.23%       │               ║
-║   └─────────────────────────────────────────────┘               ║
-║          │                                                      ║
-║          ▼  [ CLEAN SIGNAL ]                                    ║
-║   ┌─────────────────────────────────────────────┐               ║
-║   │  INNOVATION 6 — BIOMARKER DISCOVERY         │               ║
-║   │  Random Forest Feature Importance           │               ║
-║   │  14 features → ranked biomarker profile     │               ║
-║   │  CV Mean Score > 0.83                       │               ║
-║   └─────────────────────────────────────────────┘               ║
-║          │                                                      ║
-║          ▼  [ RANKED BIOMARKERS + THRESHOLDS ]                  ║
-║   ┌─────────────────────────────────────────────┐               ║
-║   │  INNOVATION 1 — EDGE CDSS                   │               ║
-║   │  Random Forest · 200 trees                  │               ║
-║   │  Decision Tree explainer · depth 5          │               ║
-║   │  SMOTE · Threshold 0.27                     │               ║
-║   │  Accuracy 85.25% · RED Recall 75.86%        │               ║
-║   └─────────────────────────────────────────────┘               ║
-║          │                                                       ║
-║          ▼                                                       ║
-║   🟢 GREEN — Nominal     🟡 YELLOW — Advisory    🔴 RED — Critical  ║
-║                                                                  ║
-║   ✦ Zero cloud dependency  ✦ Zero Earth connection required      ║
-║   ✦ Full explainability    ✦ CMO override protocol active        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║              VITALX CORE V1 — PIPELINE ARCHITECTURE                ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║   [ RAW SENSOR INPUT ]                                             ║
+║   9 physiological parameters · radiation-corrupted · noisy         ║
+║          │                                                         ║
+║          ▼                                                         ║
+║   ┌─────────────────────────────────────────────┐                  ║
+║   │  INNOVATION 3 — SENSOR DRIFT CORRECTION     │                  ║
+║   │  Multivariate Regression + Random Forest    │                  ║
+║   │  R² = 0.823 · MAE improvement = 9.23%       │                  ║
+║   └─────────────────────────────────────────────┘                  ║
+║          │                                                         ║
+║          ▼  [ CLEAN SIGNAL ]                                       ║
+║   ┌─────────────────────────────────────────────┐                  ║
+║   │  INNOVATION 6 — BIOMARKER DISCOVERY         │                  ║
+║   │  Random Forest Feature Importance           │                  ║
+║   │  14 features → ranked biomarker profile     │                  ║
+║   │  CV Mean Score > 0.83                       │                  ║
+║   └─────────────────────────────────────────────┘                  ║
+║          │                                                         ║
+║          ▼  [ RANKED BIOMARKERS + THRESHOLDS ]                     ║
+║   ┌─────────────────────────────────────────────┐                  ║
+║   │  INNOVATION 1 — EDGE CDSS                   │                  ║
+║   │  Random Forest · 200 trees                  │                  ║
+║   │  Decision Tree explainer · depth 5          │                  ║
+║   │  SMOTE · Threshold 0.27                     │                  ║
+║   │  Accuracy 85.25% · RED Recall 75.86%        │                  ║
+║   └─────────────────────────────────────────────┘                  ║
+║          │                                                         ║
+║          ▼                                                         ║
+║   🟢 GREEN — Nominal     🟡 YELLOW — Advisory    🔴 RED — Critical║
+║                                                                    ║
+║   ✦ Zero cloud dependency  ✦ Zero Earth connection required       ║
+║   ✦ Full explainability    ✦ CMO override protocol active         ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
