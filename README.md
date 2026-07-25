@@ -336,20 +336,20 @@ VITALX CORE V1 was operationally demonstrated against the actual four-member cre
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║           ARTEMIS II — CREW HEALTH ASSESSMENT                 ║
-║           VITALX CORE V1 · Threshold: 0.27                    ║
-╠══════════════════╦══════════════════╦════════════════════════╣
-║  CREW MEMBER     ║  ROLE            ║  CDSS DECISION         ║
-╠══════════════════╬══════════════════╬════════════════════════╣
-║  Reid Wiseman    ║  Commander       ║  🟡 YELLOW — Hold      ║
-║  Jeremy Hansen   ║  Mission Spec.   ║  🟡 YELLOW — Hold    M ║
-║  Christina Koch  ║  Mission Spec.   ║  🟡 YELLOW — Hold      ║
-║  Victor Glover   ║  Pilot           ║  🔴 RED — Abort        ║
-╠══════════════════╩══════════════════╩════════════════════════╣
-║  ⚠ All decisions subject to Crew Medical Officer override.   ║
-║  CDSS is advisory — final authority remains with CMO.         ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════════════╗
+║           ARTEMIS II — CREW HEALTH ASSESSMENT                   ║
+║           VITALX CORE V1 · Threshold: 0.27                      ║
+╠══════════════════╦══════════════════╦═══════════════════════════╣
+║  CREW MEMBER     ║  ROLE            ║  CDSS DECISION            ║
+╠══════════════════╬══════════════════╬═══════════════════════════╣
+║  Reid Wiseman    ║  Commander       ║  🟡 YELLOW — Hold        ║
+║  Jeremy Hansen   ║  Mission Spec.   ║  🟡 YELLOW — Hold        ║
+║  Christina Koch  ║  Mission Spec.   ║  🟡 YELLOW — Hold        ║
+║  Victor Glover   ║  Pilot           ║  🔴 RED — Abort          ║
+╠══════════════════╩══════════════════╩═══════════════════════════╣
+║  ⚠ All decisions subject to Crew Medical Officer override.     ║
+║  CDSS is advisory — final authority remains with CMO.           ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
