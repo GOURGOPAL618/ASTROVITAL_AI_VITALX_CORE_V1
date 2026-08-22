@@ -584,7 +584,7 @@ If you reference this work in academic publications, technical reports, or resea
 
 <div align="center">
 
-**ASTROVITAL AI — VITALX CORE V1 — 2026**
+**ASTROVITAL AI — VITALX CORE V1 — 2026**  
 ***NEXT-UP: ASTROVITAL AI : AEREXIS OMEGA V1.5***
 
 *"Because Every Heartbeat in Space Matters."*
