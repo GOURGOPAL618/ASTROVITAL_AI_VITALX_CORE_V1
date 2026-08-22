@@ -592,7 +592,7 @@ If you reference this work in academic publications, technical reports, or resea
 <br/>
 
 © 2026 Gouragopal Mohapatra · All Rights Reserved  
-AstroVital AI · Jagannath Command Centre · Independent Research · India
+ASTROVITAL AI · Jagannath Command Centre · Independent Research · India
 
 <br/>
 
