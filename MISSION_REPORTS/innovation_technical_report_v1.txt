@@ -1,8 +1,8 @@
 
 ╔══════════════════════════════════════════════════════════╗
-║      ASTROVITAL AI — VITALX CORE V1                     ║
-║      INNOVATION TECHNICAL REPORT                        ║
-║      © 2026 Gouragopal Mohapatra                        ║
+║      ASTROVITAL AI — VITALX CORE V1                      ║
+║      INNOVATION TECHNICAL REPORT                         ║
+║      © 2026 Gouragopal Mohapatra                         ║
 ╚══════════════════════════════════════════════════════════╝
 
 INNOVATION 3 — SENSOR DRIFT CORRECTION
