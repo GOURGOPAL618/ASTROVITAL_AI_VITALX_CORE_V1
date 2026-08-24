@@ -1,8 +1,8 @@
 
 ╔══════════════════════════════════════════════════════════╗
-║      ASTROVITAL AI — VITALX CORE V1                     ║
-║      DATASET DOCUMENTATION REPORT                       ║
-║      © 2026 Gouragopal Mohapatra                        ║
+║      ASTROVITAL AI — VITALX CORE V1                      ║
+║      DATASET DOCUMENTATION REPORT                        ║
+║      © 2026 Gouragopal Mohapatra                         ║
 ╚══════════════════════════════════════════════════════════╝
 
 DATASET OVERVIEW
