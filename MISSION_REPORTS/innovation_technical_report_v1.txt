@@ -9,6 +9,7 @@ INNOVATION 3 — SENSOR DRIFT CORRECTION
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Problem     : Space wearable sensors affected by
               radiation, sweat, movement artifacts
+
 Solution    : Two-stage correction pipeline
 
 Part 1 — Multivariate Regression:
