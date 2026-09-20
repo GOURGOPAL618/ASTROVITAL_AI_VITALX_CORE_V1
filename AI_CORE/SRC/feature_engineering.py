@@ -85,7 +85,7 @@ def engineer_features(df):
 
     # Critical Risk Gap
     if 'Overall_Risk_Score' in df.columns and \
-       'Sleep_Deficit' in df.columns:
+       'Sleep_Deficit' in df.columns: 
         df['Critical_Risk_Gap'] = (
             df['Overall_Risk_Score'] -
             df['Sleep_Deficit'] /
