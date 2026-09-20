@@ -291,7 +291,7 @@ The CDSS proposed in 2014 — never built until now.
 ╠══════════════╬═══════════════╬══════════════════════════╣
 ║ Innovation 1 ║ Accuracy      ║ 85.25%                   ║
 ║              ║ RED Recall    ║ 75.86% (from 10.34%)     ║
-║              ║ RED F1        ║ 64.71%                   ║
+║              ║ RED F1        ║ 65.71%                   ║
 ║              ║ Macro F1      ║ 80.33%                   ║
 ║              ║ Threshold     ║ 0.27 (optimized)         ║
 ╚══════════════╩═══════════════╩══════════════════════════╝
