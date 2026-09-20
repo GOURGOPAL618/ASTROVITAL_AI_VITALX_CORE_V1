@@ -146,7 +146,7 @@ Proposed      Proposed         │             │          BUILT
 
 </div>
 
-The concept of an autonomous Clinical Decision Support System for human spaceflight was formally proposed in the peer-reviewed literature in **2014**. The concept of a physiological Digital Twin for astronaut health was proposed as early as **2010**.
+The concept of an autonomous Clinical Decision Support System for human spaceflight was formally proposed in the peer-reviewed literature in **2014**. The concept of a physiological Digital Twin for astronaut health was proposed as early as **2010**. 
 
 Between those proposals and May 2026 — **twelve to sixteen years** — the research community produced reviews, critiques, theoretical frameworks, and follow-on proposals. What it did not produce was a working system.
 
