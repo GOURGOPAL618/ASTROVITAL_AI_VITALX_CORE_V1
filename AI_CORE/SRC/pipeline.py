@@ -111,6 +111,7 @@ def run_full_pipeline(df_raw,
     decisions, probas   = predict(
         df_fe, models_cdss, threshold
     )
+                          
     results = format_output(
         decisions, probas,
         models_cdss['encoder'],
