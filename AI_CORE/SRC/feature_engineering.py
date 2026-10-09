@@ -63,7 +63,7 @@ def engineer_features(df):
             (df['Cardio_Risk_Index'] /
              (df['Cardio_Risk_Index'].max()+1e-9))*0.25 +
             (df.get('Sleep_Deficit',
-              pd.Series(np.zeros(len(df)))) /
+              pd.Series(np.zeros(len(df)))) / 
              (df.get('Sleep_Deficit',
               pd.Series(np.ones(len(df)))).max()+1e-9))*0.20 +
             (df.get('Musculo_Risk',
